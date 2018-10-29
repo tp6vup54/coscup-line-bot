@@ -41,3 +41,7 @@ DEBUG = '1' # If DEBUG env is '1' will set logger's level to debug else INFO.
 ```
 python server.py
 ```
+
+### Architecture
+
+<img src="https://i.imgur.com/4vsFl52.png">
